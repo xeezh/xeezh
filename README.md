@@ -3,7 +3,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xeezh&color=blueviolet&style=for-the-badge&abbreviated=true" alt="zrxmax" /> </p>
 
-<div style="display: grid">
+<div class="table">
+  <a href="https://www.linux.org/" target="blank">
+    <img src="https://pngimg.com/uploads/linux/linux_PNG1.png"/>
+  </a>
+  <a href="https://www.linux.org/" target="blank">
+    <img src="https://pngimg.com/uploads/linux/linux_PNG1.png"/>
+  </a>
+  <a href="https://www.linux.org/" target="blank">
+    <img src="https://pngimg.com/uploads/linux/linux_PNG1.png"/>
+  </a>
+  <a href="https://www.linux.org/" target="blank">
+    <img src="https://pngimg.com/uploads/linux/linux_PNG1.png"/>
+  </a>
   <a href="https://www.linux.org/" target="blank">
     <img src="https://pngimg.com/uploads/linux/linux_PNG1.png"/>
   </a>
@@ -17,3 +29,12 @@
     <img src="https://pngimg.com/uploads/linux/linux_PNG1.png"/>
   </a>
 </div>
+
+
+<style>
+  .table {
+    display: inline-grid;
+    grid-template-columns: 25%, 25%, 25%, 25%;
+    grid-template-rows: 25%, 25%, 25%, 25%;
+  }
+</style>
