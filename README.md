@@ -1,8 +1,26 @@
-<h1 align="center">👋🏻 Hi there, I'm Xeezh</h1>
-<h3 align="center"> Python/C# Software engineer ⚙️ Backend/Desktop Developer</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzazl4cTVwd2x2eHdvOWE5cWN4M3U4dHZraDM3cmJmenJ0OTkzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/xeezh">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xeezh&color=blueviolet&style=for-the-badge&abbreviated=true" alt="zrxmax" /> </p>
 
+
+<h2>🏆 Github Profile Trophy</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xeezh&rank=-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
+<h1 align="center">👋🏻 Hi there, I'm Xeezh</h1>
+<h3 align="center"> Python/C# Software engineer ⚙️ Backend/Desktop Developer</h3>
 
 <h3 align="center">My Tech Stack:</h3>
 <div align="center">
