@@ -1,46 +1,80 @@
-<h1 align="center">Hi there! I'm Xeezh</h1>
-<h3 align="center"> Python/C# Software engineer ⚙️ Backend/Desktop Developer</h3>
+<h1 align="center">👋 Hi there! I'm <span style="color:#8A2BE2;">Xeezh</span></h1>
+<h3 align="center">⚙️ Python & C# Software Engineer | Backend & Desktop Developer</h3>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzazl4cTVwd2x2eHdvOWE5cWN4M3U4dHZraDM3cmJmenJ0OTkzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzazl4cTVwd2x2eHdvOWE5cWN4M3U4dHZraDM3cmJmenJ0OTkzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180"/>
 </div>
-<div id="badges" align="center">
+
+<div align="center">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://t.me/xzh_links">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=xeezh&color=blueviolet&style=for-the-badge&abbreviated=true" alt="xeezh" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=xeezh&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
+</p>
 
+---
 
-<h2>🏆 Github Profile Trophy</h2>
+## 🏆 GitHub Profile Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xeezh&rank=-?,-C&theme=apprentice&margin-w=15&column=4" alt="xeezh trophies"/>
+</p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=xeezh&rank=-?,-C&theme=apprentice&margin-w=15&column=3" alt="xeezh" /> </p>
+---
 
+## 🚀 Tech Stack
 
-
-
-<h2>👨‍💻 My Tech Stack:</h3>
 <div align="center">
-  <p>
-    <a href="https://www.python.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" width="50" height="50" /> </a>
-    <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="50" height="50" /> </a>
-    <a href="https://www.linux.org/"> <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" width="50" height="50" /> </a>
-    <a href="https://www.selenium.dev/"> <img src="https://www.svgrepo.com/show/473780/selenium.svg" width="50" height="50" /> </a>
-    <a href="https://fastapi.tiangolo.com/"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="50" height="50" /> </a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="50" height="50" /> </a>
-  </p>
-  <p>
-    <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" /> </a>
-    <a href="https://learn.microsoft.com/ru-ru/dotnet/desktop/wpf/overview/?view=netdesktop-8.0"> <img src="https://files.virgool.io/upload/users/73758/posts/h00jjlau5epu/su6tl3vi8qct.png" width="50" height="50" /> </a>
-    <a href="https://www.docker.com/"> <img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" width="50" height="50" /> </a>
-    <a href="https://www.mysql.com/"> <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mysql_logo_icon_145044.png" width="50" height="50" /> </a>
-    <a href="https://www.qemu.org/"> <img src="https://repository-images.githubusercontent.com/632726151/dd59f66c-b9ed-4bc4-9cfc-3840e373b191" width="50" height="50" /> </a>
-    <a href="https://www.postgresql.org/"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png" width="50" height="50" /> </a>
-  </p>
+  
+### 💻 Languages & Frameworks  
+<p>
+  <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="50" height="50"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="50" height="50"/></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="50" height="50"/></a>
+  <a href="https://www.selenium.dev/"><img src="https://www.svgrepo.com/show/473780/selenium.svg" width="50" height="50"/></a>
+</p>
+
+### 🛠 Tools & Databases
+<p>
+  <a href="https://git-scm.com/"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50"/></a>
+  <a href="https://www.docker.com/"><img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mysql_logo_icon_145044.png" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png" width="50" height="50"/></a>
+  <a href="https://www.qemu.org/"><img src="https://repository-images.githubusercontent.com/632726151/dd59f66c-b9ed-4bc4-9cfc-3840e373b191" width="50" height="50"/></a>
+  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/overview/"><img src="https://files.virgool.io/upload/users/73758/posts/h00jjlau5epu/su6tl3vi8qct.png" width="50" height="50"/></a>
+</p>
+
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xeezh&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xeezh&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+## 🎯 About Me
+
+- 🖥 Backend & desktop app enthusiast  
+- ⚡ Automating boring stuff with Python  
+- 🎯 Constantly learning & experimenting with new tech  
+- 📫 Reach me on **[Telegram](https://t.me/xzh_links)**  
+
+---
+
+<p align="center">
+  <i>✨ "Code is like humor. When you have to explain it, it’s bad." ✨</i>
+</p>
