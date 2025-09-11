@@ -33,7 +33,7 @@
     <a href="https://www.linux.org/"> <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" width="50" height="50" /> </a>
     <a href="https://www.selenium.dev/"> <img src="https://www.svgrepo.com/show/473780/selenium.svg" width="50" height="50" /> </a>
     <a href="https://swagger.io/"> <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" width="50" height="50" /> </a>
-    <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="50" height="50" /> </a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/"> <img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="50" height="50" /> </a>
   </p>
   <p>
     <a href="https://git-scm.com/"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="50" height="50" /> </a>
