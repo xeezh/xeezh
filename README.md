@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm <span style="color:#8A2BE2;">Xeezh</span></h1>
-<h3 align="center">⚙️ Python & C# Software Engineer | Backend & Desktop Developer</h3>
+<h3 align="center">⚙️ Python & GoLang Software Engineer | Backend Developer</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgzazl4cTVwd2x2eHdvOWE5cWN4M3U4dHZraDM3cmJmenJ0OTkzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="180"/>
@@ -37,10 +37,9 @@
 ### 💻 Languages & Frameworks  
 <p>
   <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/></a>
-  <a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="50" height="50"/></a>
+  <a href="https://go.dev"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQ0LA_DQb7ufAYRHOvGNxkY2jJw7dFUpfWw&s" width="50" height="50"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" width="50" height="50"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="50" height="50"/></a>
-  <a href="https://www.selenium.dev/"><img src="https://www.svgrepo.com/show/473780/selenium.svg" width="50" height="50"/></a>
+  <a href="https://gin-gonic.com/"><img src="https://i.redd.it/3dto8z3ma7671.png" width="50" height="50"/></a>
 </p>
 
 ### 🛠 Tools & Databases
@@ -49,8 +48,7 @@
   <a href="https://www.docker.com/"><img src="https://wiki.hornbill.com/images/7/70/Docker_logo.png" width="50" height="50"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/mysql_logo_icon_145044.png" width="50" height="50"/></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png" width="50" height="50"/></a>
-  <a href="https://www.qemu.org/"><img src="https://repository-images.githubusercontent.com/632726151/dd59f66c-b9ed-4bc4-9cfc-3840e373b191" width="50" height="50"/></a>
-  <a href="https://learn.microsoft.com/dotnet/desktop/wpf/overview/"><img src="https://files.virgool.io/upload/users/73758/posts/h00jjlau5epu/su6tl3vi8qct.png" width="50" height="50"/></a>
+  <a href="https://linux.org/"><img src="https://www.flaticon.com/free-icon/linux_226772" width="50" height="50"/></a>
 </p>
 
 </div>
@@ -68,13 +66,9 @@
 
 ## 🎯 About Me
 
-- 🖥 Backend & desktop app enthusiast  
-- ⚡ Automating boring stuff with Python  
+- 🖥 Backend developer
+- ⚡ Automating boring stuff with Python & Go
 - 🎯 Constantly learning & experimenting with new tech  
 - 📫 Reach me on **[Telegram](https://t.me/xzh_links)**  
 
 ---
-
-<p align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it’s bad." ✨</i>
-</p>
